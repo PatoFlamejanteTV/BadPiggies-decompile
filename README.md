@@ -2,6 +2,8 @@
 
 **RAW**, **Dump** and **normal** decompiled methods.
 
+***NOTE***: Sooo, guys, i remembered this is not **PURE** Bad Piggies, but is a mod OF Bad Piggies, so 20%~ of the code (probally) is **modded**.
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a342cce9-8b67-4dbf-8db5-ebecbe4f9fea">
 </p>
