@@ -1,5 +1,7 @@
 ﻿# Bad-Piggies-Assets
 
+**RAW**, **Dump** and **normal** decompiled methods.
+
 **Disclaimer: Educational Purposes Only**
 
 This content is provided for educational purposes only. The information contained herein is intended to offer general guidance and is not a substitute for professional advice. While we strive to ensure the accuracy and completeness of the information, we make no guarantees and disclaim any liability for any errors or omissions.
